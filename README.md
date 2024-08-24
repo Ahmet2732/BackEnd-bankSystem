@@ -29,8 +29,8 @@ A comprehensive banking system developed using Node.js, Express, and MongoDB for
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bank-system.git
-cd bank-system
+git clone https://github.com/Ahmet2732/BackEnd-bankSystem.git
+cd BackEnd-bankSystem
 ```
 
 ### Install Dependencies
@@ -73,3 +73,4 @@ The frontend files are located in the `public` directory. You can modify the HTM
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+
