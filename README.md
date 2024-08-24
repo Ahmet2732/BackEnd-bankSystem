@@ -1,6 +1,3 @@
-Here’s a template for a README file for your bank system project:
-
----
 
 # Bank System
 
